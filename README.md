@@ -25,6 +25,8 @@ export default {
 
 ## Guidelines
 
+- **It doesn't have to be perfect -- it's completely fine to have rough edges with the styling or the functionality.**
+
 - The sample code in the repo uses React hooks to interact with the GraphQL API, but if you aren't comfortable with hooks yet then feel free to use whatever other method you'd like. You can also use class components and lifecycle methods (`componentDidMount` instead of `useEffect` etc.). It won't impact our evaluation of you in any way.
 
 - It's fine to render nothing for loading states for the purpose of this exercise.
