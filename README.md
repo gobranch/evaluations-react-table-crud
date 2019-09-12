@@ -40,6 +40,7 @@ export default {
 ## What we'll be evaluating you on
 
 - General React knowledge (state and props, lifecycles methods / hooks, event handling, conditional rendering, lists and keys, etc.)
+- How consistent your coding style is.
 - How you choose to structure your components, and what you decide should be it's own component.
 - How you structure your files.
 - How you implement layouts and how clean your styles are.
