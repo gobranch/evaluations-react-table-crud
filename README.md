@@ -33,6 +33,8 @@ export default {
 
 - We also aren't expecting any sophisticated caching solutions, optimistic updates for mutations, or anything of the sort. The very basic features of Apollo are all you need.
 
+- It's also fine to just refetch data after updates instead of updating the data yourself locally.
+
 - We'd prefer if you implement the layouts yourself from scratch, without using any CSS frameworks like Bootstrap or Semantic UI. We've purposely made the design very minimal to facilitate this.
 
 - You're free to use any styling solution you want -- whether that's regular CSS, CSS modules, or a CSS-in-JS solution like styled-components or emotion.
