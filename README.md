@@ -1,5 +1,8 @@
 # React Table CRUD evaluation
 
+![](https://i.imgur.com/u8lQUhh.png)
+![](https://i.imgur.com/t0lVir6.png)
+
 - Fork this repository and build your solution in the fork. When you're done reach out to us with the link to your solution repository.
 
 - The starting point code in this repo queries a list of all users and puts them on the screen as JSON.
